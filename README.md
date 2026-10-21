@@ -1,4 +1,4 @@
-﻿# TrussController
+﻿# Rocket Engine Support Structure Controller
 
 基于 **ESP32-S3** 的四轴步进电机滑台控制项目，提供 Wi-Fi HTTP 控制接口和 Python 桌面上位机，可用于桁架实验装置、四轴滑台及多电机定位控制原型。
 
