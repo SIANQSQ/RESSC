@@ -1,0 +1,6 @@
+﻿#pragma once
+#define STEPPER_WIFI_SSID "YOUR_WIFI_NAME"
+#define STEPPER_WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
+#define STEPPER_HOSTNAME "esp32-stepper"
+#define STEPPER_RGB_PIN 48
+// Travel, transmission, direction and boot self-test: see rail_config.h.
