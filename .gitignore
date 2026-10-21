@@ -6,3 +6,5 @@
 
 include/device_config.local.h
 __pycache__/
+
+*.bat
